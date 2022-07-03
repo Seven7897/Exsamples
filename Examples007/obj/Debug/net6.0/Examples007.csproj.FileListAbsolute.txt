@@ -1,0 +1,15 @@
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\bin\Debug\net6.0\Examples007.exe
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\bin\Debug\net6.0\Examples007.deps.json
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\bin\Debug\net6.0\Examples007.runtimeconfig.json
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\bin\Debug\net6.0\Examples007.dll
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\bin\Debug\net6.0\Examples007.pdb
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.csproj.AssemblyReference.cache
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.AssemblyInfoInputs.cache
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.AssemblyInfo.cs
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.csproj.CoreCompileInputs.cache
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.dll
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\refint\Examples007.dll
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.pdb
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\Examples007.genruntimeconfig.cache
+C:\Users\finch\Desktop\Exsamples\Exsamples\Examples007\obj\Debug\net6.0\ref\Examples007.dll
