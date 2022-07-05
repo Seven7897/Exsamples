@@ -11,11 +11,20 @@ string Replace(string text , char oldValue , char newValue)
     
     for (int i = 0; i < length; i++)
     {
-        if (text[i] == oldValue) result = result + $"{newValue}";
-        else result = result  + $"{text[i]}"; 
+        if (text[i] == oldValue) result = result + newValue ;
+        else result = result  + text[i]; 
     }
     return result;
 }
 
 string newText = Replace( text , 'к' , 'К' );
 Console.WriteLine(newText);
+Console.WriteLine();
+
+ newText = Replace( newText , 'л' , 'Л' );
+Console.WriteLine(newText);
+Console.WriteLine();
+
+ newText = Replace( newText , ' ' , '|' );
+Console.WriteLine(newText);
+Console.WriteLine();
